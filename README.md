@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pentagram: Instagram, but with AI Images
 
 ## Getting Started
@@ -43,3 +44,6 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+=======
+# Pentagram
+>>>>>>> 3a2cbd01fc0945fe502abb37f08fbacd332e95be
