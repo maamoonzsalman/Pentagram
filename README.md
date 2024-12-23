@@ -3,8 +3,10 @@ Pentagram is a cutting-edge web application that generates high-quality images f
 
 ## Tech Stack 
 • AI Model Hosting: Used Modal to host image-generating model.  
-• Database: Firebase for database and storage 
-• Frontend Framework: NextJS, React, Tailwind CSS
+• Database: Firebase for database and storage  
+• Frontend Framework: NextJS, React, Tailwind CSS  
+• Backend: Python
+
 
 ## Getting Started
 
